@@ -1,5 +1,5 @@
 {
-  "name": "react-notification-center",
+  "name": "rnc",
   "version": "1.2.2",
   "description": "react-notification-center keep all your notification in a single place",
   "main": "lib/index.js",
@@ -49,10 +49,10 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/diegoddox/react-notification-center"
+    "url": "https://github.com/amirhamdy/react-notification-center"
   },
   "bugs": {
-    "url": "https://github.com/diegoddox/react-notification-center/issues"
+    "url": "https://github.com/amirhamdy/react-notification-center/issues"
   },
   "files": [
     "src/",
