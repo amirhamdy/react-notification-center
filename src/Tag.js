@@ -9,7 +9,7 @@ const Tag = props => (
 
 Tag.displayName = 'NotificationTagComponent';
 Tag.propTypes = {
-    type: React.PropTypes.string,
+    type: React.PropTypes.String,
     children: React.PropTypes.node
 };
 export default Tag;
